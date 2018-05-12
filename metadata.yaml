@@ -18,6 +18,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/3315
     wikipedia: http://en.wikipedia.org/wiki/Edward_Hutton_%28writer%29
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/44235#Memoirs-of-the-Dukes-of-Urbino-Volume-II--of-3-Illustrating-the-Arms-Arts-and-Literature-of-I_
 gutenberg_bookshelf: Italy
 gutenberg_issued: '2013-11-21'
 gutenberg_type: Text
